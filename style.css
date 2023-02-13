@@ -1,0 +1,72 @@
+body {
+    background-color: #F4EAD5;
+    margin: 0;
+    font-family: Helvetica;
+    color: #495579;
+}
+
+.container {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.tabel-container {
+    width: 100%;
+}
+
+.title {
+    background-color: #251749;
+    color: #FFFBEB;
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 0;
+    border-bottom-right-radius: 5px ;
+    margin-bottom: 15px;
+    font-size: 25px;
+    min-width: 300px;
+    text-align: center;
+}
+
+hr {
+    margin: 0;
+    border: solid 1px #251749;
+}
+
+
+.data-diri img {
+    width: 180px;
+    height: 200px;
+    float: left;
+    margin-right: 10px;
+}
+
+.data-diri {
+    width: 50%;
+} 
+
+.tabel-container td {
+    vertical-align: top;
+    padding: 5px;
+}
+
+.data-diri li {
+    border-bottom: solid 20px #F4EAD5;
+}
+
+.data-diri ul {
+    list-style-type: none; 
+}
+
+.project .content {
+    width: 25%;
+    float: left;
+    text-align: center;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.project img {
+    width: 100%;
+}
